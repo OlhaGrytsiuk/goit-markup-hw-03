@@ -51,7 +51,7 @@ ul
     display: flex;
     align-items: center;
     border-bottom: 1px solid #EEEEEE40;
-    justify-content: ;
+    justify-content: space-between;
 }
 
 .logo {
